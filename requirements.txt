@@ -1,0 +1,4 @@
+python-telegram-bot==21.*
+Pillow==10.*
+uvicorn==0.30.*
+starlette==0.37.*
